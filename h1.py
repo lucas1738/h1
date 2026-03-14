@@ -7,5 +7,5 @@ except ZeroDivisionError:
     print("you can't divide zero")
 else:
     print(f"the answer is {result}")
-    
+    print("thank you for using our calculator")
 
